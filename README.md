@@ -10,9 +10,12 @@ Projeyi `git` ile yükleme
 ```bash
   git clone https://github.com/VuralBayrakli/Laptop_Price_Predictor.git
 ```
+## Veri seti
 
-## Screenshots
+![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss5.png)
+
+## Tahmin Yapma
 
 ![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss3.png)
 
-![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss4.png)
+![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss6.png)
