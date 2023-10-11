@@ -3,6 +3,13 @@
 
 Bu proje laptop bilgileri üzerinde veri işleme yöntemleri ve makine öğrenmesi algoritmaları kullanılarak laptop fiyat tahmini gerçekleştiren modeller geliştirilmiştir.
 
+## Dosya Yükleme
+
+Projeyi `git` ile yükleme 
+
+```bash
+  git clone https://github.com/VuralBayrakli/Laptop_Price_Predictor.git
+```
 
 ## Screenshots
 
