@@ -10,6 +10,10 @@ Projeyi `git` ile yükleme
 ```bash
   git clone https://github.com/VuralBayrakli/Laptop_Price_Predictor.git
 ```
+## Koda Erişme
+-`laptop-price-predictor.ipynb` dosyasına giriş yaptıktan sonra bütün satırları tek tek çalıştırın
+
+
 ## Veri seti
 
 ![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss5.png)
