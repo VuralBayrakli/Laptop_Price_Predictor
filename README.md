@@ -11,7 +11,7 @@ Projeyi `git` ile yükleme
   git clone https://github.com/VuralBayrakli/Laptop_Price_Predictor.git
 ```
 ## Koda Erişme
--`laptop-price-predictor.ipynb` dosyasına giriş yaptıktan sonra bütün satırları tek tek çalıştırın
+- `laptop-price-predictor.ipynb` dosyasına giriş yaptıktan sonra bütün satırları tek tek çalıştırın
 
 
 ## Veri seti
