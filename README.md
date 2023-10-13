@@ -11,7 +11,7 @@ Projeyi `git` ile yükleme
   git clone https://github.com/VuralBayrakli/Laptop_Price_Predictor.git
 ```
 ## Koda Erişme
-- `laptop-price-predictor.ipynb` dosyasına giriş yaptıktan sonra bütün satırları tek tek çalıştırın
+- `laptop-price-predictor.ipynb` dosyasına giriş yaptıktan sonra bütün satırları tek tek çalıştırın.
 - **Marka Seçimi:** Marka seçimini Brand açılır menüsünden yapın.
 - **Laptop Türü:** Laptop türünü Type açılır menüsünden seçin.
 - **RAM Miktarı:** RAM miktarını RAM(in GB) açılır menüsünden belirleyin.
@@ -26,6 +26,7 @@ Projeyi `git` ile yükleme
 - **GPU Markası:** Grafik kartı markasını GPU açılır menüsünden seçin.
 - **İşletim Sistemi:** Laptop'un işletim sistemini OS açılır menüsünden seçin.
 Tüm seçimlerinizi yaptıktan sonra "Tahmini Fiyat" butonuna tıklayarak laptop fiyatını tahmin edebilirsiniz.
+![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss7.png)
 
 
 
