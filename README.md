@@ -25,7 +25,7 @@ Projeyi `git` ile yükleme
 - **SSD Kapasitesi:** SSD kapasitesini SSD(in GB) açılır menüsünden seçin.
 - **GPU Markası:** Grafik kartı markasını GPU açılır menüsünden seçin.
 - **İşletim Sistemi:** Laptop'un işletim sistemini OS açılır menüsünden seçin.
-Tüm seçimlerinizi yaptıktan sonra "Tahmini Fiyat" butonuna tıklayarak laptop fiyatını tahmin edebilirsiniz.
+- Tüm seçimlerinizi yaptıktan sonra "Tahmini Fiyat" butonuna tıklayarak laptop fiyatını tahmin edebilirsiniz.
 ![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss7.png)
 
 
