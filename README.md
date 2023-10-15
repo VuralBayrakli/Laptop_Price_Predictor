@@ -1,7 +1,7 @@
 
 # Laptop_Price_Predictor
 
-Bu proje laptop bilgileri üzerinde veri işleme yöntemleri ve makine öğrenmesi algoritmaları kullanılarak laptop fiyat tahmini gerçekleştiren modeller geliştirilmiştir.
+Bu projede laptop bilgileri üzerinde veri işleme yöntemleri ve makine öğrenmesi algoritmaları kullanılarak laptop fiyat tahmini gerçekleştiren modeller geliştirilmiştir.
 
 ## Dosya Yükleme
 
