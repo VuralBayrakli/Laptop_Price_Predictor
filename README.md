@@ -26,6 +26,8 @@ Projeyi `git` ile yükleme
 - **GPU Markası:** Grafik kartı markasını GPU açılır menüsünden seçin.
 - **İşletim Sistemi:** Laptop'un işletim sistemini OS açılır menüsünden seçin.
 - Tüm seçimlerinizi yaptıktan sonra "Tahmini Fiyat" butonuna tıklayarak laptop fiyatını tahmin edebilirsiniz.
+
+![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss21.png)
 ![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss7.png)
 
 
