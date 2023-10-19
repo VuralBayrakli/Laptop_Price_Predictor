@@ -34,6 +34,54 @@ Projeyi `git` ile yükleme
 
 ![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss5.png)
 
+## Lineer Regresyon Performans Metrikleri
+
+![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss8.png)
+
+## Ridge Regresyon Performans Metrikleri
+
+![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss9.png)
+
+## Lasso Regresyon Performans Metrikleri
+
+![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss10.png)
+
+## KNN Performans Metrikleri
+
+![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss11.png)
+
+## Karar Ağaçları Performans Metrikleri
+
+![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss12.png)
+
+## SVM Performans Metrikleri
+
+![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss13.png)
+
+## Rasgele Orman Performans Metrikleri
+
+![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss14.png)
+
+## ExtraTrees Performans Metrikleri
+
+![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss15.png)
+
+## AdaBoost Performans Metrikleri
+
+![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss16.png)
+
+## Gradient Boost Performans Metrikleri
+
+![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss17.png)
+
+## XGBoost Performans Metrikleri
+
+![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss18.png)
+
+## Voting Regressor Performans Metrikleri
+
+![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss19.png)
+
 ## Tahmin Yapma
 
 ![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss3.png)
