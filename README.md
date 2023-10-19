@@ -28,7 +28,7 @@ Projeyi `git` ile yükleme
 - Tüm seçimlerinizi yaptıktan sonra "Tahmini Fiyat" butonuna tıklayarak laptop fiyatını tahmin edebilirsiniz.
 
 ![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss21.png)
-![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss7.png)
+![App Screenshot](https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss22.png)
 
 
 
